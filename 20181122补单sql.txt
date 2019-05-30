@@ -1,3 +1,5 @@
+
+hhmtest
 update yd_order set type='4' where channel_order_id ='20181105114207192683';
 update yd_order set type='4' where channel_order_id ='20181116181220282805';
 update yd_order set type='4' where channel_order_id ='20181116181821293792';
